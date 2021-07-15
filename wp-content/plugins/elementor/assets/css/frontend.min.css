@@ -304,7 +304,6 @@ ul.elementor-icon-list-items.elementor-inline-items .elementor-inline-item {word
 @media (min-width:1025px) {#elementor-device-mode:after {content: "desktop";}}
 @media (min-width:768px) and (max-width:1024px) {#elementor-device-mode:after {content: "tablet";}}
 @media (max-width:767px) {#elementor-device-mode:after {content: "mobile";}}
-@font-face {font-family: eicons;src: url("../lib/eicons/fonts/eicons.eot?5.10.0");src: url("../lib/eicons/fonts/eicons.eot?5.10.0#iefix") format("embedded-opentype"),url("../lib/eicons/fonts/eicons.woff2?5.10.0") format("woff2"),url("../lib/eicons/fonts/eicons.woff?5.10.0") format("woff"),url("../lib/eicons/fonts/eicons.ttf?5.10.0") format("truetype"),url("../lib/eicons/fonts/eicons.svg?5.10.0#eicon") format("svg");font-weight: 400;font-style: normal;}
 [class*=" eicon-"], [class^=eicon] {display: inline-block;font-family: eicons;font-size: inherit;font-weight: 400;font-style: normal;font-variant: normal;line-height: 1;text-rendering: auto;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;}
 @-webkit-keyframes eicon-spin {0% {-webkit-transform: rotate(0deg);transform: rotate(0deg);}
 	to {-webkit-transform: rotate(359deg);transform: rotate(359deg);}}
